@@ -75,10 +75,10 @@
 -- Consultas
 
 -- Igualdad
-{parentesco:'Padre'}  
+{parentesco:'Madre'}  
 
 -- Mayor que
-{edad:{$gt:6}}
+{edad:{$gt:17}}
 
 
 -- uso de comparativos Or
